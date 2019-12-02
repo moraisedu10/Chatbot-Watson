@@ -1,7 +1,7 @@
 # Chatbot-Watson
 
 Segue no link abaixo prévia do Chatbot Watson desenvolvido para clientes que querem montar um cardápio com opções de protéina, e ainda escolher o ponto da carne vermelha. No cardápio é possível escolher opções de legumes e arroz(normal ou integral) e concomitantemente tirar dúvidas sobre os alimentos.
-## Ao finalizar o pedido o assistente virtual confirma novamente o pedido e simula a transação financeira, pedindo ao usuário para inserir email. Inserido o email o assistente confirmar envio do email e passa número de telefone do restaurante FIT & Meals em caso de dúvida.
+Ao finalizar o pedido o assistente virtual confirma novamente o pedido e simula a transação financeira, pedindo ao usuário para inserir email. Inserido o email o assistente confirmar envio do email e passa número de telefone do restaurante FIT & Meals em caso de dúvida.
 
 #https://assistant-chat-us-south.watsonplatform.net/web/public/f35cac3b-aeff-4eb4-a0e5-e75ded92ddda
 
