@@ -14,7 +14,7 @@ Na sequência de dúvidas(benefícios) sobre os alimentos, o fluxo seguiu com me
 
 # Digressions
 
-Nesse ponto usamos o conceito de **Digressions**, onde o usuário pode entrar em sair de um fluxo sem perder a sequência da comunicação. Como exemplo, nesse chatbot se o usuário estiver montando sua refeição e perguntar sobre os benefícios de um alimento, o assistente irá dar a informação sobre o alimento e retonar ao fluxo de montar o cardápio. Ao tirar uma dúvida adicionei a mensagem "Me conte mais sobre sua dúvida ou vamos montar seu prato!" e logo em seguida restaura o fluxo de montagem de pedido, como forma de captar a venda. Há a opção também de continuar tirando dúvidas e mesmo assim voltamos para o fluxo da venda(montagem do pedido).
+Nesse ponto usamos o conceito de **Digressions**, onde o usuário pode entrar em sair de um fluxo sem perder a sequência da comunicação. Como exemplo, nesse chatbot se o usuário estiver montando sua refeição e perguntar sobre os benefícios de um alimento, o assistente irá dar a informação sobre o alimento e retonar ao fluxo de montar o cardápio. Ao tirar uma dúvida adicionei a mensagem "Me conte mais sobre sua dúvida ou vamos montar seu prato!" e logo em seguida restaura o fluxo de montagem de pedido, como forma de captar a venda. Há a opção também de continuar tirando dúvidas e mesmo assim voltamos para o fluxo da venda(montagem do pedido) a cada vez (**skip to response**).
 
 ![duvida1](https://user-images.githubusercontent.com/51059036/70105749-7d967b80-1620-11ea-9b91-a590b68268e7.PNG)
 
