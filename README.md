@@ -20,10 +20,10 @@ Nesse ponto usamos o conceito de **Digressions**, onde o usuário pode entrar em
 
 # Próximos Steps
 
-Acessar git IBM Assistent sample(git clone), NPM install para instalar as dependências do projeto. Passar as credênciais API para startar o assistente. 
-NPM start - para iniciar o Assistente. Primeiramente podemos rodar o projeto em Local Host para simular. Nesse contexto já conseguimos visualizar o conversationID onde cada chamado atralada a um ID único(usuário por browser) e ver o fluxo
-do chatbot já criado. As respostas vão sendo armazenados em variáveis e atrelhado ao conversationID. COnseguimos ver também as porcentagens de acerto na identificação de intenções(nível de acerto). Outro importante insight que podemos tirar é que a partir no nível de acerto das intenções podemos treinar o modelo, parte mais importante para ajustar o modelo
-Uma das opçoes para trabalhar na estrutura de backend, conexão de API's é o Node JS.
+Acessar git IBM Assistent sample(git clone) -> NPM install para instalar as dependências do projeto -> Passar as credênciais API para startar o assistente. 
+NPM start - para iniciar o Assistente. Primeiramente podemos rodar o projeto em **Local Host** para simular. Nesse contexto já conseguimos visualizar o **conversationID** onde cada chamado atralada a um ID único(usuário por browser) e ver o fluxo
+do chatbot já criado. As respostas vão sendo armazenadas em variáveis e atreladas ao conversationID. Conseguimos ver também as porcentagens de acerto na identificação de intenções(nível de acerto). Outro importante insight que podemos tirar é que a partir no nível de acerto das intenções podemos treinar o modelo para garantir maior acurácia quando o modelo estiver em produção.
+Uma das opções para trabalhar na estrutura de backend e conexões de API's é o Node JS.
 
 Desafio interessante! Seguirei implementando o modelo! 
 
