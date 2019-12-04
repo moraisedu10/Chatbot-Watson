@@ -1,5 +1,7 @@
 # Chatbot Watson - FIT & Meals
 
+![fit](https://user-images.githubusercontent.com/51059036/70107090-5641ad80-1624-11ea-85b1-269d8f3f39f3.jpg)
+
 Segue no link abaixo prévia do Chatbot Watson desenvolvido para clientes que querem montar uma refeição no restaurante FIT & Meals com opções de protéina, e ainda escolher o ponto da carne vermelha. No cardápio é possível escolher opções de legumes e arroz(normal ou integral) e concomitantemente tirar dúvidas sobre os alimentos.
 Ao finalizar o pedido o assistente virtual confirma novamente o pedido e simula a transação financeira, pedindo ao usuário para inserir email. Inserido o email o assistente confirma o envio do email e passa número de telefone do restaurante FIT & Meals em caso de dúvida.
 
