@@ -16,3 +16,6 @@ do chatbot já criado. As respostas vão sendo armazenados em variáveis e atrel
 Uma das opçoes para trabalhar na estrutura de backend, conexão de API's é o Node JS.
 
 Desafio interessante! Seguirei implementando o modelo! 
+
+
+![Dialog watson](https://user-images.githubusercontent.com/51059036/70104775-dfa1b180-161d-11ea-9d18-2352192de57c.PNG)
